@@ -46,7 +46,7 @@ Sentinel operates by intercepting traffic through a specialized local VPN servic
 Sentinel is built with privacy at its core:
 - **No Data Collection**: All monitoring, filtering, and analysis happen strictly on-device.
 - **Local VPN Only**: The VPN service is 100% local; no traffic is ever routed to external servers.
-- **Transparent Logic**: All firewall decisions and privacy logic are documented and visible in the code.
+- **Transparent Logic**: All firewall decisions and privacy logic are documented and visible clearly in the code.
 
 ---
 *Stay informed. Stay secure. Stay Sentinel.*
